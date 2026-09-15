@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Apple
+  - Traps
+  - Co
+  - Cup
+  - Enemies
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - CanJump
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3388162983
+    locked: 0
+  - name: Items
+    uniqueID: 3836698179
+    locked: 0
+  - name: Traps
+    uniqueID: 3506922861
+    locked: 0
+  - name: Enemies
+    uniqueID: 2509305723
+    locked: 0
+  - name: Ui
+    uniqueID: 2612478409
+    locked: 0
